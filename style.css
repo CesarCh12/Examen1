@@ -1,5 +1,5 @@
  html {
-        background: url(vamoss/ar.gif) 
+        background: url(vamoss/fondode.jpg) 
         no-repeat center center fixed;
         background-size: cover;
         -moz-background-size: cover;
@@ -73,7 +73,7 @@ text-shadow: 7px 7px gray
     font-color:white;
     float: right;
     padding: 10px 30px 10px 30px;
-    font-size: 30px;
+    font-size: 28px;
     color: transparent;
    -moz-text-stroke-width: 1px;
    -webkit-text-stroke-width: 1px;
@@ -84,11 +84,10 @@ text-shadow: 7px 7px gray
   color:black;
     background-color: gray;
     border: 2px solid white;
-    font-size:24px;
     font-color:white;
     float: right;
     padding: 10px 30px 10px 30px;
-    font-size: 30px;
+    font-size: 26px;
     color: transparent;
    -moz-text-stroke-width: 1.5px;
    -webkit-text-stroke-width: 1.5px;
@@ -119,8 +118,8 @@ color:black;
     font-size:24px;
     font-color:white;
     float: right;
-    padding: 10px 30px 10px 30px;
-    font-size: 30px;
+    padding: 10px 40px 10px 40px;
+    font-size: 30.5px;
     color: transparent;
    -moz-text-stroke-width: 1.5px;
    -webkit-text-stroke-width: 1.5px;
@@ -131,7 +130,7 @@ color:black;
  
 
 #p1 {
-    padding: 60px 20px 31px 20px;
+    padding: 60px 44px 31px 20px;
     border: 3px solid white;
     font-size:18px;
     background-color:gray;
@@ -140,7 +139,7 @@ color:black;
   }
 
 #p2 {
-     padding: 60px 30px 35px 20px;
+     padding: 60px 54px 35px 20px;
     border: 3px solid white;
     font-size:18px;
     background-color:black;
@@ -149,7 +148,7 @@ color:black;
     }
 
 #p3 {
-    padding: 60px 20px 35px 20px;
+    padding: 60px 25px 35px 20px;
     border: 3px solid white;
     font-size:18px;
     background-color:gray;
@@ -157,7 +156,7 @@ color:black;
     font-weight: bold;
    }
    #p4 {
-    padding: 60px 30px 35px 20px;
+    padding: 70px 10px 70px 20px;
     border: 3px solid white;
     font-size:18px;
     background-color:black;
@@ -184,7 +183,7 @@ color:black;
   width: 25%;
 }
 .col4{
-  width: 33.33%;
+  width: 25%;
 }
 .col5{
   width: 41.66%;
@@ -217,40 +216,40 @@ color:black;
 .coli1, .coli2, .coli3, .coli4, .coli5, .coli6,.coli7, .coli8, .coli9,.coli10, .coli11, .coli12 {
   float: left; 
 } 
-.coli1{
-  width: 33.33%;
+.col1{
+  width: 8.33%;
 }
-.coli2{
-  width: 33.33%;
+.col2{
+  width: 16.66%;
 }
-.coli3{
-  width: 33.33%;
+.col3{
+  width: 25%;
 }
-.coli4{
-  width: 33.33%;
+.col4{
+  width: 25%;
 }
-.coli5{
+.col5{
   width: 41.66%;
 }
-.coli6{
+.col6{
   width: 50%;
 }
-.coli7{
+.col7{
   width: 58.33%;
 }
-.coli8{
+.col8{
   width: 66.66%;
 }
-.coli9{
+.col9{
   width: 74.99%;
 }
-.coli10{
+.col10{
   width: 83.33%;
 }
-.coli11{
+.col11{
   width: 91.66%;
 }
-.coli12{
+.col12{
   width: 100%;
 }
         
@@ -260,40 +259,40 @@ color:black;
 .coli1, .coli2, .coli3, .coli4, .coli5, .coli6,.coli7, .coli8, .coli9,.coli10, .coli11, .coli12 {
   float: left; 
 } 
-.coli1{
-  width: 33.33%;
+.col1{
+  width: 8.33%;
 }
-.coli2{
-  width: 33.33%;
+.col2{
+  width: 16.66%;
 }
-.coli3{
-  width: 33.33%;
+.col3{
+  width: 25%;
 }
-.coli4{
-  width: 33.33%;
+.col4{
+  width: 25%;
 }
-.coli5{
+.col5{
   width: 41.66%;
 }
-.coli6{
+.col6{
   width: 50%;
 }
-.coli7{
+.col7{
   width: 58.33%;
 }
-.coli8{
+.col8{
   width: 66.66%;
 }
-.coli9{
+.col9{
   width: 74.99%;
 }
-.coli10{
+.col10{
   width: 83.33%;
 }
-.coli11{
+.col11{
   width: 91.66%;
 }
-.coli12{
+.col12{
   width: 100%;
 }
            
@@ -303,40 +302,40 @@ color:black;
 .colp1, .colp2, .colp3, .colp4, .colp5, .colp6,.colp7, .colp8, .colp9,.colp10, .colp11, .colp12 {
   float: left; 
 } 
-.colp1{
-  width: 100%;
+.col1{
+  width: 8.33%;
 }
-.colp2{
-  width: 100%;
+.col2{
+  width: 16.66%;
 }
-.colp3{
-  width: 100%;
+.col3{
+  width: 25%;
 }
-.colp4{
-  width: 33.33%;
+.col4{
+  width: 25%;
 }
-.colp5{
+.col5{
   width: 41.66%;
 }
-.colp6{
+.col6{
   width: 50%;
 }
-.colp7{
+.col7{
   width: 58.33%;
 }
-.colp8{
+.col8{
   width: 66.66%;
 }
-.colp9{
+.col9{
   width: 74.99%;
 }
-.colp10{
+.col10{
   width: 83.33%;
 }
-.colp11{
+.col11{
   width: 91.66%;
 }
-.colp12{
+.col12{
   width: 100%;
 }
 #cosita{
